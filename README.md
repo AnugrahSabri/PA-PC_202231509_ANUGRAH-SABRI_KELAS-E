@@ -28,8 +28,8 @@ Deteksi tepi dan kontur memiliki berbagai aplikasi dalam kehidupan nyata, sepert
 
 # Tahapan Cara Menyelesaikan Proyek
 Siapkan gambar yang akan diolah
-![App Screenshot](./Screenshots/citra.JPEG)
-![App Screenshot](./Screenshots/ket.JPEG)
+![App Screenshot](./Screenshots/citra.jpeg)
+![App Screenshot](./Screenshots/ket.jpeg)
 
 * Import Library
 ``` python
